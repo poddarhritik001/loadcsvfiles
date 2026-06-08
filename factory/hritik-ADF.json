@@ -1,0 +1,15 @@
+{
+	"name": "hritik-ADF",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7438dfeb-f3ce-4203-8a2c-87b0c1d0221d",
+		"tenantId": "24ce36ad-9035-4009-b744-11e85c36fec1"
+	}
+}
